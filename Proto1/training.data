@@ -19,20 +19,20 @@
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 call-for-help:
-	i am not feeling well
-	call for help
-	help me
-	get my son
-	get my daughter
-	get my wife
-	get my husband
-	i'm feeling really bad
-	i'm stuck
-	call 911
-	i feel dizzy
-	i need to lie down
-	i do not feel well
-	i need help
+    i am not feeling well
+    call for help
+    help me
+    get my son
+    get my daughter
+    get my wife
+    get my husband
+    i'm feeling really bad
+    i'm stuck
+    call 911
+    i feel dizzy
+    i need to lie down
+    i do not feel well
+    i need help
     call an ambulance
     call the fire station
     call the police
@@ -44,10 +44,10 @@ call-for-help:
     there's a man in the kitchen
 
 activate:
-	turn on lights
-	turn on lamp
-	i want to listen to the radio
-	what time is it
+    turn on lights
+    turn on lamp
+    i want to listen to the radio
+    what time is it
     i want to call
     i want to order pizza
     i want to take a picture
@@ -56,32 +56,32 @@ activate:
     turn on camera
 
 explicit-warning:
-	so so
-	i feel so so
-	i feel a little off
-	i have a headache
-	just a bit tired
-	my feet hurt
-	i feel dizzy
-	leave me alone
-	stop bothering me
-	my knees hurt
-	my phone is broken
-	go away
-	my body hurts
+    so so
+    i feel so so
+    i feel a little off
+    i have a headache
+    just a bit tired
+    my feet hurt
+    i feel dizzy
+    leave me alone
+    stop bothering me
+    my knees hurt
+    my phone is broken
+    go away
+    my body hurts
     my chest feels strange
 
 do-nothing:
-	i am fine
-	i am ok
-	not so bad
-	all is fine
-	how are you
-	cannot get this to work
-	ouch
-	hello
-	i do not need help
-	no worries
+    i am fine
+    i am ok
+    not so bad
+    all is fine
+    how are you
+    cannot get this to work
+    ouch
+    hello
+    i do not need help
+    no worries
     i'm hungry
     look an ambulance
     paramedics came to work today
@@ -89,5 +89,5 @@ do-nothing:
     where's the fire
 
 ngrams#
-	i am
-	get my
+    i am
+    get my
