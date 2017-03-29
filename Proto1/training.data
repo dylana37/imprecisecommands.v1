@@ -13,7 +13,7 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
-#      
+#
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
@@ -33,12 +33,27 @@ call-for-help:
 	i need to lie down
 	i do not feel well
 	i need help
+    call an ambulance
+    call the fire station
+    call the police
+    i need a paramedic
+    save me
+    someone is breaking in
+    someone's skulking around outside
+    there's a fire in the kitchen
+    there's a man in the kitchen
 
 activate:
 	turn on lights
 	turn on lamp
 	i want to listen to the radio
 	what time is it
+    i want to call
+    i want to order pizza
+    i want to take a picture
+    i want to watch youtube
+    set an alarm
+    turn on camera
 
 explicit-warning:
 	so so
@@ -54,6 +69,7 @@ explicit-warning:
 	my phone is broken
 	go away
 	my body hurts
+    my chest feels strange
 
 do-nothing:
 	i am fine
@@ -66,6 +82,11 @@ do-nothing:
 	hello
 	i do not need help
 	no worries
+    i'm hungry
+    look an ambulance
+    paramedics came to work today
+    the police are outside
+    where's the fire
 
 ngrams#
 	i am
